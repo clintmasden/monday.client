@@ -9,7 +9,6 @@ A .NET Standard/C# implementation of Monday.com API.
 ```
 using System;
 using Monday.Client;
-using Monday.Client.Data;
 
 namespace Monday.App
 {
