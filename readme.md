@@ -3,7 +3,7 @@ A .NET Standard/C# implementation of Monday.com API.
 
 | Name | Resources |
 | ------ | ------ |
-| APIs | https://developers.monday.com/ |
+| APIs | https://monday.com/developers/ |
 
 #### Getting Started:
 ```
